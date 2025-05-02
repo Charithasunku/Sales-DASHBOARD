@@ -1,6 +1,14 @@
 
 # Comprehensive Sales Dashboard Using Power BI
 
+COMPANY : CODETECH IT SOLUTIONS 
+NAME : S.CHARITHA
+INTERN ID : CTO6DL295
+DOMAIN : POWER BI 
+DURATION : 2 MONTHS
+MENTOR : NEELA SANTOSH
+
+
 ## Project Objective
 
 To create an interactive and insightful Power BI dashboard that analyzes sales performance across various dimensions, enabling data-driven decision-making for business growth.
